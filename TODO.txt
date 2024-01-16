@@ -1,0 +1,6 @@
+Features:
+* Windows build system (cmake) and verify Windows support.
+* Modular CLI argument parser.
+
+Improvements:
+* Make removal of audio support more streamlined.

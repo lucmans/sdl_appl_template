@@ -1,0 +1,5 @@
+# default build location
+/build
+
+# clangd config
+/compile_flags.txt
