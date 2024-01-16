@@ -1,0 +1,7 @@
+# default build directories
+/build*
+
+# clangd config
+/compile_commands.json
+# clangd cache
+/.cache/

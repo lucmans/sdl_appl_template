@@ -1,0 +1,5 @@
+Features:
+* Modular CLI argument parser.
+
+Improvements:
+* Make removal of audio support more streamlined.
